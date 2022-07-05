@@ -1,0 +1,1102 @@
+{"tvshows":[
+    {
+        "TVShowTitle": "Game of Thrones",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UY281_CR8,0,190,281_.jpg",
+        "TVReleaseYear": "2011",
+        "TVShowActors": [
+            "Emilia Clarke",
+            "Peter Dinklage",
+            "Kit Harington"
+        ],
+        "TVShowSynopsis": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia."
+    },
+    {
+        "TVShowTitle": "Breaking Bad",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BOThjODMyM2QtNTNhYi00ZGM4LWIxZTAtMDAyYWNhYzYxMjJiXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_QL75_UY281_CR8,0,190,281_.jpg",
+        "TVReleaseYear": "2008",
+        "TVShowActors": [
+            "Bryan Cranston",
+            "Aaron Paul",
+            "Anna Gunn"
+        ],
+        "TVShowSynopsis": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future."
+    },
+    {
+        "TVShowTitle": "Stranger Things",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BN2ZmYjg1YmItNWQ4OC00YWM0LWE0ZDktYThjOTZiZjhhN2Q2XkEyXkFqcGdeQXVyNjgxNTQ3Mjk@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2016",
+        "TVShowActors": [
+            "Millie Bobby Brown",
+            "Finn Wolfhard",
+            "Winona Ryder"
+        ],
+        "TVShowSynopsis": "When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back."
+    },
+    {
+        "TVShowTitle": "Friends",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+        "TVReleaseYear": "1994",
+        "TVShowActors": [
+            "Jennifer Aniston",
+            "Courteney Cox",
+            "Lisa Kudrow"
+        ],
+        "TVShowSynopsis": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan."
+    },
+    {
+        "TVShowTitle": "The Walking Dead",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BZmU5NTcwNjktODIwMi00ZmZkLTk4ZWUtYzVjZWQ5ZTZjN2RlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2010",
+        "TVShowActors": [
+            "Andrew Lincoln",
+            "Norman Reedus",
+            "Melissa McBride"
+        ],
+        "TVShowSynopsis": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive."
+    },
+    {
+        "TVShowTitle": "Sherlock",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMWY3NTljMjEtYzRiMi00NWM2LTkzNjItZTVmZjE0MTdjMjJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ4NTc5OTU@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2010",
+        "TVShowActors": [
+            "Benedict Cumberbatch",
+            "Martin Freeman",
+            "Una Stubbs"
+        ],
+        "TVShowSynopsis": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London."
+    },
+    {
+        "TVShowTitle": "The Big Bang Theory",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2007",
+        "TVShowActors": [
+            "Johnny Galecki",
+            "Jim Parsons",
+            "Kaley Cuoco"
+        ],
+        "TVShowSynopsis": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory."
+    },
+    {
+        "TVShowTitle": "Dexter",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BZjkzMmU5MjMtODllZS00OTA5LTk2ZTEtNjdhYjZhMDA5ZTRhXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_QL75_UY281_CR9,0,190,281_.jpg",
+        "TVReleaseYear": "2006",
+        "TVShowActors": [
+            "Michael C. Hall",
+            "Jennifer Carpenter",
+            "David Zayas"
+        ],
+        "TVShowSynopsis": "He's smart. He's lovable. He's Dexter Morgan, America's favorite serial killer, who spends his days solving crimes and nights committing them. Golden Globe winner Michael C. Hall stars in the hit SHOWTIME Original Series."
+    },
+    {
+        "TVShowTitle": "How I Met Your Mother",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_QL75_UY281_CR10,0,190,281_.jpg",
+        "TVReleaseYear": "2005",
+        "TVShowActors": [
+            "Josh Radnor",
+            "Jason Segel",
+            "Cobie Smulders"
+        ],
+        "TVShowSynopsis": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother."
+    },
+    {
+        "TVShowTitle": "True Detective",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMTUwMGM2ZmYtZGEyZC00OWQyLWI2Y2QtMTdjYzMxZGJmNjhjXkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2014",
+        "TVShowActors": [
+            "Vince Vaughn",
+            "Colin Farrell",
+            "Rachel McAdams"
+        ],
+        "TVShowSynopsis": "Seasonal anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law."
+    },
+    {
+        "TVShowTitle": "Lost",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNzhlY2E5NDUtYjJjYy00ODg3LWFkZWQtYTVmMzU4ZWZmOWJkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX190_CR0,6,190,281_.jpg",
+        "TVReleaseYear": "2004",
+        "TVShowActors": [
+            "Jorge Garcia",
+            "Josh Holloway",
+            "Yunjin Kim"
+        ],
+        "TVShowSynopsis": "The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island."
+    },
+    {
+        "TVShowTitle": "The Office",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2005",
+        "TVShowActors": [
+            "Steve Carell",
+            "Jenna Fischer",
+            "John Krasinski"
+        ],
+        "TVShowSynopsis": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium."
+    },
+    {
+        "TVShowTitle": "Prison Break",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMTg3NTkwNzAxOF5BMl5BanBnXkFtZTcwMjM1NjI5MQ@@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+        "TVReleaseYear": "2005",
+        "TVShowActors": [
+            "Dominic Purcell",
+            "Wentworth Miller",
+            "Amaury Nolasco"
+        ],
+        "TVShowSynopsis": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside."
+    },
+    {
+        "TVShowTitle": "Black Mirror",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2011",
+        "TVShowActors": [
+            "Daniel Lapaine",
+            "Hannah John-Kamen",
+            "Michaela Coel"
+        ],
+        "TVShowSynopsis": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide."
+    },
+    {
+        "TVShowTitle": "Vikings",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BODk4ZjU0NDUtYjdlOS00OTljLTgwZTUtYjkyZjk1NzExZGIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2013",
+        "TVShowActors": [
+            "Katheryn Winnick",
+            "Gustaf Skarsg\u00e5rd",
+            "Alexander Ludwig"
+        ],
+        "TVShowSynopsis": "Vikings transports us to the brutal and mysterious world of Ragnar Lothbrok, a Viking warrior and farmer who yearns to explore - and raid - the distant shores across the ocean."
+    },
+    {
+        "TVShowTitle": "House of Cards",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BODM1MDU2NjY5NF5BMl5BanBnXkFtZTgwMDkxNTcwNjM@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2013",
+        "TVShowActors": [
+            "Kevin Spacey",
+            "Michel Gill",
+            "Robin Wright"
+        ],
+        "TVShowSynopsis": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him."
+    },
+    {
+        "TVShowTitle": "Westworld",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMTRmYzNmOTctZjMwOS00ODZlLWJiZGQtNDg5NDY5NjE3MTczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2016",
+        "TVShowActors": [
+            "Evan Rachel Wood",
+            "Jeffrey Wright",
+            "Ed Harris"
+        ],
+        "TVShowSynopsis": "Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence."
+    },
+    {
+        "TVShowTitle": "Rick and Morty",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2013",
+        "TVShowActors": [
+            "Justin Roiland",
+            "Chris Parnell",
+            "Spencer Grammer"
+        ],
+        "TVShowSynopsis": "An animated series that follows the exploits of a super scientist and his not-so-bright grandson."
+    },
+    {
+        "TVShowTitle": "Peaky Blinders",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMTkzNjEzMDEzMF5BMl5BanBnXkFtZTgwMDI0MjE4MjE@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2013",
+        "TVShowActors": [
+            "Cillian Murphy",
+            "Paul Anderson",
+            "Helen McCrory"
+        ],
+        "TVShowSynopsis": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby."
+    },
+    {
+        "TVShowTitle": "The Witcher",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BN2FiOWU4YzYtMzZiOS00MzcyLTlkOGEtOTgwZmEwMzAxMzA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2019",
+        "TVShowActors": [
+            "Henry Cavill",
+            "Freya Allan",
+            "Anya Chalotra"
+        ],
+        "TVShowSynopsis": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts."
+    },
+    {
+        "TVShowTitle": "La casa de papel",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNDJkYzY3MzMtMGFhYi00MmQ4LWJkNTgtZGNiZWZmMTMxNzdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2017",
+        "TVShowActors": [
+            "\u00darsula Corber\u00f3",
+            "\u00c1lvaro Morte",
+            "Itziar Itu\u00f1o"
+        ],
+        "TVShowSynopsis": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain."
+    },
+    {
+        "TVShowTitle": "House M.D.",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMDA4NjQzN2ItZDhhNC00ZjVlLWFjNTgtMTEyNDQyOGNjMDE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+        "TVReleaseYear": "2004",
+        "TVShowActors": [
+            "Hugh Laurie",
+            "Omar Epps",
+            "Robert Sean Leonard"
+        ],
+        "TVShowSynopsis": "An antisocial maverick doctor who specializes in diagnostic medicine does whatever it takes to solve puzzling cases that come his way using his crack team of doctors and his wits."
+    },
+    {
+        "TVShowTitle": "Arrow",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMTI0NTMwMDgtYTMzZC00YmJhLTg4NzMtMTc1NjI4MWY4NmQ4XkEyXkFqcGdeQXVyNTY3MTYzOTA@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+        "TVReleaseYear": "2012",
+        "TVShowActors": [
+            "Stephen Amell",
+            "Katie Cassidy",
+            "David Ramsey"
+        ],
+        "TVShowSynopsis": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow."
+    },
+    {
+        "TVShowTitle": "Supernatural",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNzRmZWJhNjUtY2ZkYy00N2MyLWJmNTktOTAwY2VkODVmOGY3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2005",
+        "TVShowActors": [
+            "Jared Padalecki",
+            "Jensen Ackles",
+            "Jim Beaver"
+        ],
+        "TVShowSynopsis": "Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons and gods that roam the earth."
+    },
+    {
+        "TVShowTitle": "Daredevil",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BODcwOTg2MDE3NF5BMl5BanBnXkFtZTgwNTUyNTY1NjM@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2015",
+        "TVShowActors": [
+            "Charlie Cox",
+            "Vincent D'Onofrio",
+            "Deborah Ann Woll"
+        ],
+        "TVShowSynopsis": "A blind lawyer by day, vigilante by night. Matt Murdock fights the crime of New York as Daredevil."
+    },
+    {
+        "TVShowTitle": "Modern Family",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNzRhNWIxYTEtYjc2NS00YWFlLWFhOGEtMDZiMWM1M2RkNDkyXkEyXkFqcGdeQXVyNjc0MjkzNjc@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+        "TVReleaseYear": "2009",
+        "TVShowActors": [
+            "Ed O'Neill",
+            "Sof\u00eda Vergara",
+            "Julie Bowen"
+        ],
+        "TVShowSynopsis": "Three different but related families face trials and tribulations in their own uniquely comedic ways."
+    },
+    {
+        "TVShowTitle": "The Mandalorian",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BZDhlMzY0ZGItZTcyNS00ZTAxLWIyMmYtZGQ2ODg5OWZiYmJkXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2019",
+        "TVShowActors": [
+            "Pedro Pascal",
+            "Carl Weathers",
+            "Barry Lowin"
+        ],
+        "TVShowSynopsis": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic."
+    },
+    {
+        "TVShowTitle": "Narcos",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2015",
+        "TVShowActors": [
+            "Pedro Pascal",
+            "Lizbeth Eden",
+            "Wagner Moura"
+        ],
+        "TVShowSynopsis": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years."
+    },
+    {
+        "TVShowTitle": "Ojing-eo geim",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2021",
+        "TVShowActors": [
+            "Lee Jung-jae",
+            "Park Hae-soo",
+            "Wi Ha-Joon"
+        ],
+        "TVShowSynopsis": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits with deadly high stakes. A survival game that has a whopping 45.6 billion-won prize at stake."
+    },
+    {
+        "TVShowTitle": "The Simpsons",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "1989",
+        "TVShowActors": [
+            "Dan Castellaneta",
+            "Nancy Cartwright",
+            "Harry Shearer"
+        ],
+        "TVShowSynopsis": "The satiric adventures of a working-class family in the misfit city of Springfield."
+    },
+    {
+        "TVShowTitle": "Suits",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNmVmMmM5ZmItZDg0OC00NTFiLWIxNzctZjNmYTY5OTU3ZWU3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+        "TVReleaseYear": "2011",
+        "TVShowActors": [
+            "Gabriel Macht",
+            "Patrick J. Adams",
+            "Meghan Markle"
+        ],
+        "TVShowSynopsis": "On the run from a drug deal gone bad, brilliant college dropout Mike Ross finds himself working with Harvey Specter, one of New York City's best lawyers."
+    },
+    {
+        "TVShowTitle": "Better Call Saul",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMGE4YzY4NGEtOWYyYS00ZDk2LWExMmMtZDIyODhiMmNlMGE0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2015",
+        "TVShowActors": [
+            "Bob Odenkirk",
+            "Rhea Seehorn",
+            "Jonathan Banks"
+        ],
+        "TVShowSynopsis": "The trials and tribulations of criminal lawyer Jimmy McGill in the time before he established his strip-mall law office in Albuquerque, New Mexico."
+    },
+    {
+        "TVShowTitle": "Mr. Robot",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMzgxMmQxZjQtNDdmMC00MjRlLTk1MDEtZDcwNTdmOTg0YzA2XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2015",
+        "TVShowActors": [
+            "Rami Malek",
+            "Christian Slater",
+            "Carly Chaikin"
+        ],
+        "TVShowSynopsis": "Elliot, a brilliant but highly unstable young cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global dominance when he and his shadowy allies try to take down the corrupt corporation he works for."
+    },
+    {
+        "TVShowTitle": "The Sopranos",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+        "TVReleaseYear": "1999",
+        "TVShowActors": [
+            "James Gandolfini",
+            "Lorraine Bracco",
+            "Edie Falco"
+        ],
+        "TVShowSynopsis": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling."
+    },
+    {
+        "TVShowTitle": "Fargo",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BN2NiMGE5M2UtNWNlNC00N2Y4LTkwOWUtMDlkMzEwNTcyOTcyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+        "TVReleaseYear": "2014",
+        "TVShowActors": [
+            "Billy Bob Thornton",
+            "Martin Freeman",
+            "Allison Tolman"
+        ],
+        "TVShowSynopsis": "Various chronicles of deception, intrigue and murder in and around frozen Minnesota. Yet all of these tales mysteriously lead back one way or another to Fargo, North Dakota."
+    },
+    {
+        "TVShowTitle": "South Park",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BOGE2YWUzMDItNTg2Ny00NTUzLTlmZGYtNWMyNzVjMjQ3MThkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+        "TVReleaseYear": "1997",
+        "TVShowActors": [
+            "Trey Parker",
+            "Matt Stone",
+            "Isaac Hayes"
+        ],
+        "TVShowSynopsis": "Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado."
+    },
+    {
+        "TVShowTitle": "Dark",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2017",
+        "TVShowActors": [
+            "Louis Hofmann",
+            "Karoline Eichhorn",
+            "Lisa Vicari"
+        ],
+        "TVShowSynopsis": "A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families."
+    },
+    {
+        "TVShowTitle": "The Boys",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNGEyOGJiNWEtMTgwMi00ODU4LTlkMjItZWI4NjFmMzgxZGY2XkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2019",
+        "TVShowActors": [
+            "Karl Urban",
+            "Jack Quaid",
+            "Antony Starr"
+        ],
+        "TVShowSynopsis": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers."
+    },
+    {
+        "TVShowTitle": "The Flash",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMDIzNzYwNTctZWY4Mi00YjQ2LWI5YWYtMzdmNDgwMGI4Yzk1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+        "TVReleaseYear": "2014",
+        "TVShowActors": [
+            "Grant Gustin",
+            "Candice Patton",
+            "Danielle Panabaker"
+        ],
+        "TVShowSynopsis": "After being struck by lightning, Barry Allen wakes up from his coma to discover he's been given the power of super speed, becoming the Flash, fighting crime in Central City."
+    },
+    {
+        "TVShowTitle": "Homeland",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BM2Q1YzUxYTYtOTkwZC00Mjk3LTllZWQtNThjYjllZjE2OTQwXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2011",
+        "TVShowActors": [
+            "Claire Danes",
+            "Mandy Patinkin",
+            "Damian Lewis"
+        ],
+        "TVShowSynopsis": "A bipolar CIA operative becomes convinced a prisoner of war has been turned by al-Qaeda and is planning to carry out a terrorist attack on American soil."
+    },
+    {
+        "TVShowTitle": "Family Guy",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BODEwZjEzMjAtNjQxMy00Yjc4LWFlMDAtYjhjZTAxNDU3OTg3XkEyXkFqcGdeQXVyOTM2NTM4MjA@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+        "TVReleaseYear": "1999",
+        "TVShowActors": [
+            "Seth MacFarlane",
+            "Alex Borstein",
+            "Seth Green"
+        ],
+        "TVShowSynopsis": "In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another."
+    },
+    {
+        "TVShowTitle": "The Wire",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNTllYzFhMjAtZjExNS00MjM4LWE5YmMtOGFiZGRlOTU5YzJiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2002",
+        "TVShowActors": [
+            "Dominic West",
+            "Lance Reddick",
+            "Sonja Sohn"
+        ],
+        "TVShowSynopsis": "The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement."
+    },
+    {
+        "TVShowTitle": "The Vampire Diaries",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMDk3YzgxNDQtNTEzOS00NDMyLWFlYmYtYTZlMDk1NDkxNmMyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+        "TVReleaseYear": "2009",
+        "TVShowActors": [
+            "Nina Dobrev",
+            "Paul Wesley",
+            "Ian Somerhalder"
+        ],
+        "TVShowSynopsis": "The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers."
+    },
+    {
+        "TVShowTitle": "Shingeki no Kyojin",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNDE5ZjMwNGEtYzMwMC00NzEwLTg3MWUtMmJmYTUyNDBjOGFiXkEyXkFqcGdeQXVyMTE3ODM0NzI1._V1_QL75_UX190_CR0,1,190,281_.jpg",
+        "TVReleaseYear": "2013",
+        "TVShowActors": [
+            "Y\u00fbki Kaji",
+            "Marina Inoue",
+            "Yui Ishikawa"
+        ],
+        "TVShowSynopsis": "After his hometown is destroyed and his mother is killed, young Eren Jaeger vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction."
+    },
+    {
+        "TVShowTitle": "American Horror Story",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMWFhOGI5ZmQtNjA1My00NWExLTg1MDktYThkYWI3ZTc4ZDYzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY281_CR2,0,190,281_.jpg",
+        "TVReleaseYear": "2011",
+        "TVShowActors": [
+            "Lady Gaga",
+            "Kathy Bates",
+            "Angela Bassett"
+        ],
+        "TVShowSynopsis": "An anthology series centering on different characters and locations, including a house with a murderous past, an insane asylum, a witch coven, a freak show circus, a haunted hotel, a possessed farmhouse, a cult, the apocalypse, a slasher summer camp, and a bleak beach town and desert valley."
+    },
+    {
+        "TVShowTitle": "Lucifer",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNDJjMzc4NGYtZmFmNS00YWY3LThjMzQtYzJlNGFkZGRiOWI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2016",
+        "TVShowActors": [
+            "Tom Ellis",
+            "Lauren German",
+            "Kevin Alejandro"
+        ],
+        "TVShowSynopsis": "Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels."
+    },
+    {
+        "TVShowTitle": "Arrested Development",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNTFlYTE2YTItZmQ1NS00ZWQ5LWI3OGUtYTQzNDMyZmEyYTZjXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2003",
+        "TVShowActors": [
+            "Jason Bateman",
+            "Michael Cera",
+            "Portia de Rossi"
+        ],
+        "TVShowSynopsis": "Level-headed son Michael Bluth takes over family affairs after his father is imprisoned. But the rest of his spoiled, dysfunctional family are making his job unbearable."
+    },
+    {
+        "TVShowTitle": "Seinfeld",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BZjZjMzQ2ZmUtZWEyZC00NWJiLWFjM2UtMzhmYzZmZDcxMzllXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+        "TVReleaseYear": "1989",
+        "TVShowActors": [
+            "Jerry Seinfeld",
+            "Julia Louis-Dreyfus",
+            "Michael Richards"
+        ],
+        "TVShowSynopsis": "The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends."
+    },
+    {
+        "TVShowTitle": "Orange Is the New Black",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BYjYyM2FmMmMtZDgyZi00NGU3LWI3NzktODllZDY0YzQyNzgyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2013",
+        "TVShowActors": [
+            "Taylor Schilling",
+            "Danielle Brooks",
+            "Taryn Manning"
+        ],
+        "TVShowSynopsis": "Convicted of a decade old crime of transporting drug money to an ex-girlfriend, normally law-abiding Piper Chapman is sentenced to a year and a half behind bars to face the reality of how life-changing prison can really be."
+    },
+    {
+        "TVShowTitle": "Aspirants",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNWRkMjA0NjItMmViYS00MDQyLTgyMWYtOWFmOTA4NmU5MjRjXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "TVReleaseYear": "2021",
+        "TVShowActors": [
+            "Naveen Kasturia",
+            "Shivankit Singh Parihar",
+            "Abhilash Thapliyal"
+        ],
+        "TVShowSynopsis": "It is the story of the journey of three UPSC (public service competitive exams in India) aspirants and their friendship against all odds."
+    },
+    {
+        "TVShowTitle": "Death Note",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+        "TVReleaseYear": "2006",
+        "TVShowActors": [
+            "Mamoru Miyano",
+            "Brad Swaile",
+            "Vincent Tong"
+        ],
+        "TVShowSynopsis": "An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it."
+    },
+    {
+        "TVShowTitle": "Grey's Anatomy",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BODA2Mjk0N2MtNGY0Mi00ZWFjLTkxODEtZDFjNDg4ZDliMGVmXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2005",
+        "TVShowActors": [
+            "Ellen Pompeo",
+            "Chandra Wilson",
+            "James Pickens Jr."
+        ],
+        "TVShowSynopsis": "A drama centered on the personal and professional lives of five surgical interns and their supervisors."
+    },
+    {
+        "TVShowTitle": "Avatar: The Last Airbender",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+        "TVReleaseYear": "2005",
+        "TVShowActors": [
+            "Dee Bradley Baker",
+            "Zach Tyler Eisen",
+            "Mae Whitman"
+        ],
+        "TVShowSynopsis": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world."
+    },
+    {
+        "TVShowTitle": "Sons of Anarchy",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMTEyODg2NzkwMDBeQTJeQWpwZ15BbWU4MDQwODI3MzIx._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2008",
+        "TVShowActors": [
+            "Charlie Hunnam",
+            "Katey Sagal",
+            "Mark Boone Junior"
+        ],
+        "TVShowSynopsis": "A biker struggles to balance being a father and being involved in an outlaw motorcycle club."
+    },
+    {
+        "TVShowTitle": "Brooklyn Nine-Nine",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNzVkYWY4NzYtMWFlZi00YzkwLThhZDItZjcxYTU4ZTMzMDZmXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2013",
+        "TVShowActors": [
+            "Andy Samberg",
+            "Stephanie Beatriz",
+            "Terry Crews"
+        ],
+        "TVShowSynopsis": "Comedy series following the exploits of Det. Jake Peralta and his diverse, lovable colleagues as they police the NYPD's 99th Precinct."
+    },
+    {
+        "TVShowTitle": "13 Reasons Why",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMDYzZTRlNGEtZDc2Mi00ZGNjLTlmZDAtMmVjMDZkOThiODEwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2017",
+        "TVShowActors": [
+            "Dylan Minnette",
+            "Katherine Langford",
+            "Christian Navarro"
+        ],
+        "TVShowSynopsis": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life."
+    },
+    {
+        "TVShowTitle": "Loki",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2021",
+        "TVShowActors": [
+            "Tom Hiddleston",
+            "Owen Wilson",
+            "Gugu Mbatha-Raw"
+        ],
+        "TVShowSynopsis": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of \u201cAvengers: Endgame.\u201d"
+    },
+    {
+        "TVShowTitle": "Mindhunter",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNWNmYzQ1ZWUtYTQ3ZS00Y2UwLTlkMDctZThlOTJkMGJiNzBiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2017",
+        "TVShowActors": [
+            "Jonathan Groff",
+            "Holt McCallany",
+            "Anna Torv"
+        ],
+        "TVShowSynopsis": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases."
+    },
+    {
+        "TVShowTitle": "Firefly",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BOTcwNzkwMDItZmM1OC00MmQ2LTgxYjgtOTNiNDgxZDAxMjk0XkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2002",
+        "TVShowActors": [
+            "Nathan Fillion",
+            "Gina Torres",
+            "Alan Tudyk"
+        ],
+        "TVShowSynopsis": "Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them."
+    },
+    {
+        "TVShowTitle": "Two and a Half Men",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BOTI2MjIzN2ItZDg0OS00MTlhLWIzMTMtYWI4ZTA0NGE4NDJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+        "TVReleaseYear": "2003",
+        "TVShowActors": [
+            "Jon Cryer",
+            "Ashton Kutcher",
+            "Angus T. Jones"
+        ],
+        "TVShowSynopsis": "A hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house."
+    },
+    {
+        "TVShowTitle": "Sex Education",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BODhmN2Q4ZjUtNzE5Ni00YWQxLThmYjYtM2NkNDEwNmFhMGY3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2019",
+        "TVShowActors": [
+            "Asa Butterfield",
+            "Gillian Anderson",
+            "Emma Mackey"
+        ],
+        "TVShowSynopsis": "A teenage boy with a sex therapist mother teams up with a high school classmate to set up an underground sex therapy clinic at school."
+    },
+    {
+        "TVShowTitle": "Scrubs",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BODE1MGVjZjMtODc5My00ODBjLTg0NWItMDllNTNlM2Y3ZGYyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX190_CR0,6,190,281_.jpg",
+        "TVReleaseYear": "2001",
+        "TVShowActors": [
+            "Zach Braff",
+            "Donald Faison",
+            "Sarah Chalke"
+        ],
+        "TVShowSynopsis": "In the unreal world of Sacred Heart Hospital, intern John \"J.D.\" Dorian learns the ways of medicine, friendship and life."
+    },
+    {
+        "TVShowTitle": "Community",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNDQ5NDZiYjktZmFmMy00MjAxLTk1MDktOGZjYTY5YTE1ODdmXkEyXkFqcGdeQXVyNjcwMzEzMTU@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+        "TVReleaseYear": "2009",
+        "TVShowActors": [
+            "Joel McHale",
+            "Danny Pudi",
+            "Donald Glover"
+        ],
+        "TVShowSynopsis": "A suspended lawyer is forced to enroll in a community college with an eccentric staff and student body."
+    },
+    {
+        "TVShowTitle": "Hannibal",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNWU5YmJhNWEtZGVlOS00NmRhLThmNzUtYjAyMDA2MDg5ZTM4XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "TVReleaseYear": "2013",
+        "TVShowActors": [
+            "Hugh Dancy",
+            "Mads Mikkelsen",
+            "Caroline Dhavernas"
+        ],
+        "TVShowSynopsis": "Explores the early relationship between renowned psychiatrist Hannibal Lecter and a young FBI criminal profiler who is haunted by his ability to empathize with serial killers."
+    },
+    {
+        "TVShowTitle": "Ozark",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNGY3MmUzNjktZWEzNi00ODdiLTk4ZDItZjBhMjZlYzI0NTJjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2017",
+        "TVShowActors": [
+            "Jason Bateman",
+            "Laura Linney",
+            "Sofia Hublitz"
+        ],
+        "TVShowSynopsis": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss."
+    },
+    {
+        "TVShowTitle": "Parks and Recreation",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMjA5MjUxNDgwNF5BMl5BanBnXkFtZTgwMDI5NjMwNDE@._V1_QL75_UY281_CR10,0,190,281_.jpg",
+        "TVReleaseYear": "2009",
+        "TVShowActors": [
+            "Amy Poehler",
+            "Jim O'Heir",
+            "Nick Offerman"
+        ],
+        "TVShowSynopsis": "The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place."
+    },
+    {
+        "TVShowTitle": "True Blood",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMDVjZDQ2N2MtMzMxYy00ZjliLTg5YjAtNjk1OTUwYjVjNWQ0XkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2008",
+        "TVShowActors": [
+            "Anna Paquin",
+            "Stephen Moyer",
+            "Sam Trammell"
+        ],
+        "TVShowSynopsis": "Telepathic waitress Sookie Stackhouse encounters a strange new supernatural world when she meets the mysterious Bill Compton, a southern Louisiana gentleman and vampire."
+    },
+    {
+        "TVShowTitle": "The 100",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNjRiYTIzZmUtMTFkNS00ZTM0LWE4ODAtMDliMGE4NzM5ZjVlXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_QL75_UY281_CR19,0,190,281_.jpg",
+        "TVReleaseYear": "2014",
+        "TVShowActors": [
+            "Eliza Taylor",
+            "Bob Morley",
+            "Marie Avgeropoulos"
+        ],
+        "TVShowSynopsis": "Set ninety-seven years after a nuclear war has destroyed civilization, when a spaceship housing humanity's lone survivors sends one hundred juvenile delinquents back to Earth, in hopes of possibly re-populating the planet."
+    },
+    {
+        "TVShowTitle": "Heroes",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMjI3ODU0OTQ1MV5BMl5BanBnXkFtZTgwNzI0MTQ2MzE@._V1_QL75_UX190_CR0,1,190,281_.jpg",
+        "TVReleaseYear": "2006",
+        "TVShowActors": [
+            "Jack Coleman",
+            "Hayden Panettiere",
+            "Milo Ventimiglia"
+        ],
+        "TVShowSynopsis": "Common people discover that they have super powers. Their lives intertwine as a devastating event must be prevented."
+    },
+    {
+        "TVShowTitle": "Spartacus: Blood and Sand",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BZTEwZTM3MzUtMzk3Yy00YWI4LWI1ZTktOTc1MmRjZWM5ZDhmXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2010",
+        "TVShowActors": [
+            "Andy Whitfield",
+            "Lucy Lawless",
+            "Manu Bennett"
+        ],
+        "TVShowSynopsis": "The life of Spartacus, the gladiator who lead a rebellion against the Romans. From his time as an ally of the Romans, to his betrayal and becoming a gladiator, to the rebellion he leads and its ultimate outcome."
+    },
+    {
+        "TVShowTitle": "Fringe",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMjE2NTA2OTA2Nl5BMl5BanBnXkFtZTcwODM0NDM1Ng@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2008",
+        "TVShowActors": [
+            "Anna Torv",
+            "Joshua Jackson",
+            "John Noble"
+        ],
+        "TVShowSynopsis": "An F.B.I. agent is forced to work with an institutionalized scientist and his son in order to rationalize a brewing storm of unexplained phenomena."
+    },
+    {
+        "TVShowTitle": "The Blacklist",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNDFkZDI5ZGUtYTdkOC00YTFiLWJjNjMtNTQ3ZjIxMTY2ZjMyXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2013",
+        "TVShowActors": [
+            "James Spader",
+            "Megan Boone",
+            "Diego Klattenhoff"
+        ],
+        "TVShowSynopsis": "A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her."
+    },
+    {
+        "TVShowTitle": "Mad Men",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNTgxNDZlODQtNDcwOC00NWQ5LTljNWMtMDhjY2U5YTUzMTc4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2007",
+        "TVShowActors": [
+            "Jon Hamm",
+            "Elisabeth Moss",
+            "Vincent Kartheiser"
+        ],
+        "TVShowSynopsis": "A drama about one of New York's most prestigious ad agencies at the beginning of the 1960s, focusing on one of the firm's most mysterious but extremely talented ad executives, Donald Draper."
+    },
+    {
+        "TVShowTitle": "Futurama",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNzA2ZDk2ZTUtMWU2Yi00NDVmLTk1ODEtMmFmMjQyNWYzODI0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX190_CR0,5,190,281_.jpg",
+        "TVReleaseYear": "1999",
+        "TVShowActors": [
+            "Billy West",
+            "John DiMaggio",
+            "Katey Sagal"
+        ],
+        "TVShowSynopsis": "Philip J. Fry, a pizza delivery boy, is accidentally frozen in 1999 and thawed out on New Year's Eve 2999."
+    },
+    {
+        "TVShowTitle": "Shameless",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BZDgxNjQ2MjMtMjk2Yi00M2Q2LWI0ZDktOGM1NWI5YWUzMjk4XkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2011",
+        "TVShowActors": [
+            "Emmy Rossum",
+            "William H. Macy",
+            "Ethan Cutkosky"
+        ],
+        "TVShowSynopsis": "A scrappy, feisty, fiercely loyal Chicago family makes no apologies."
+    },
+    {
+        "TVShowTitle": "Gotham",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMTU5NjQ2MTU4NV5BMl5BanBnXkFtZTgwOTYyNTAwNzM@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+        "TVReleaseYear": "2014",
+        "TVShowActors": [
+            "Ben McKenzie",
+            "Jada Pinkett Smith",
+            "Donal Logue"
+        ],
+        "TVShowSynopsis": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival."
+    },
+    {
+        "TVShowTitle": "You",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMzkzOGFiY2EtZDcyZi00OWNhLThhNmYtYjQ3ODljMTM5ZDBkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+        "TVReleaseYear": "2018",
+        "TVShowActors": [
+            "Penn Badgley",
+            "Victoria Pedretti",
+            "Ambyr Childers"
+        ],
+        "TVShowSynopsis": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by."
+    },
+    {
+        "TVShowTitle": "Once Upon a Time",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNjBmZmI0ZDktODI2MS00MDU1LTk0NDYtNGE0MDc0OWVkYzcwXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2011",
+        "TVShowActors": [
+            "Ginnifer Goodwin",
+            "Jennifer Morrison",
+            "Lana Parrilla"
+        ],
+        "TVShowSynopsis": "A young woman with a troubled past is drawn to a small town in Maine where fairy tales are to be believed."
+    },
+    {
+        "TVShowTitle": "Doctor Who",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BZWJhYjFmZDEtNTVlYy00NGExLWJhZWItNTAxODY5YTc3MDFmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+        "TVReleaseYear": "2005",
+        "TVShowActors": [
+            "Jodie Whittaker",
+            "Peter Capaldi",
+            "Pearl Mackie"
+        ],
+        "TVShowSynopsis": "The further adventures in time and space of the alien adventurer known as the Doctor and their companions from planet Earth."
+    },
+    {
+        "TVShowTitle": "The X Files",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BZDA0MmM4YzUtMzYwZC00OGI2LWE0ODctNzNhNTkwN2FmNTVhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "1993",
+        "TVShowActors": [
+            "David Duchovny",
+            "Gillian Anderson",
+            "Mitch Pileggi"
+        ],
+        "TVShowSynopsis": "Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts."
+    },
+    {
+        "TVShowTitle": "New Girl",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMjA0MDc1NTk0Ml5BMl5BanBnXkFtZTgwMTk2ODA5NDM@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+        "TVReleaseYear": "2011",
+        "TVShowActors": [
+            "Zooey Deschanel",
+            "Jake Johnson",
+            "Max Greenfield"
+        ],
+        "TVShowSynopsis": "After a bad break-up, Jess, an offbeat young woman, moves into an apartment loft with three single men. Although they find her behavior very unusual, the men support her - most of the time."
+    },
+    {
+        "TVShowTitle": "The Handmaid's Tale",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BZGZiMTkzZjktNzk0OC00NzEzLWJjOTMtYjdkMWM1NGU1ZDM4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UY281_CR6,0,190,281_.jpg",
+        "TVReleaseYear": "2017",
+        "TVShowActors": [
+            "Elisabeth Moss",
+            "Yvonne Strahovski",
+            "Joseph Fiennes"
+        ],
+        "TVShowSynopsis": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship."
+    },
+    {
+        "TVShowTitle": "The Punisher",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMTExODIwOTUxNzFeQTJeQWpwZ15BbWU4MDE5MDA0MTcz._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2017",
+        "TVShowActors": [
+            "Jon Bernthal",
+            "Amber Rose Revah",
+            "Ben Barnes"
+        ],
+        "TVShowSynopsis": "After the murder of his family, Marine veteran Frank Castle becomes the vigilante known as \"The Punisher,\" with only one goal in mind: to avenge them."
+    },
+    {
+        "TVShowTitle": "Agents of S.H.I.E.L.D.",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMTkwODYyMjgzOV5BMl5BanBnXkFtZTgwODAzMTE5MjE@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2013",
+        "TVShowActors": [
+            "Clark Gregg",
+            "Ming-Na Wen",
+            "Brett Dalton"
+        ],
+        "TVShowSynopsis": "The missions of the Strategic Homeland Intervention, Enforcement and Logistics Division."
+    },
+    {
+        "TVShowTitle": "It's Always Sunny in Philadelphia",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMzg3ODVjZTYtZTAyNC00MzVjLTk3NmUtMGI4ZjZmNGQ1NmY4XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+        "TVReleaseYear": "2004",
+        "TVShowActors": [
+            "Charlie Day",
+            "Glenn Howerton",
+            "Rob McElhenney"
+        ],
+        "TVShowSynopsis": "Five friends with big egos and small brains are the proprietors of an Irish pub in Philadelphia."
+    },
+    {
+        "TVShowTitle": "Jessica Jones",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BM2QyNmZkNTYtZWQyZi00NDhhLWEzMDItYmIzY2U4ZWVmOWNhXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2015",
+        "TVShowActors": [
+            "Krysten Ritter",
+            "Rachael Taylor",
+            "Eka Darville"
+        ],
+        "TVShowSynopsis": "Following the tragic end of her brief superhero career, Jessica Jones tries to rebuild her life as a private investigator, dealing with cases involving people with remarkable abilities in New York City."
+    },
+    {
+        "TVShowTitle": "The Umbrella Academy",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNzA5MjkwYzMtNGY2MS00YWRjLThkNTktOTNmMzdlZjE3Y2IxXkEyXkFqcGdeQXVyMjkwMzMxODg@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+        "TVReleaseYear": "2019",
+        "TVShowActors": [
+            "Elliot Page",
+            "Tom Hopper",
+            "David Casta\u00f1eda"
+        ],
+        "TVShowSynopsis": "A family of former child heroes, now grown apart, must reunite to continue to protect the world."
+    },
+    {
+        "TVShowTitle": "Downton Abbey",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BY2U1NmIwYzgtNjFkOS00YWUxLTg0YTMtZmE5NTA3YjRmY2NlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+        "TVReleaseYear": "2010",
+        "TVShowActors": [
+            "Hugh Bonneville",
+            "Phyllis Logan",
+            "Elizabeth McGovern"
+        ],
+        "TVShowSynopsis": "A chronicle of the lives of the British aristocratic Crawley family and their servants in the early twentieth century."
+    },
+    {
+        "TVShowTitle": "Twin Peaks",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMTExNzk2NjcxNTNeQTJeQWpwZ15BbWU4MDcxOTczOTIx._V1_QL75_UY281_CR15,0,190,281_.jpg",
+        "TVReleaseYear": "1990",
+        "TVShowActors": [
+            "Kyle MacLachlan",
+            "Michael Ontkean",
+            "M\u00e4dchen Amick"
+        ],
+        "TVShowSynopsis": "An idiosyncratic FBI agent investigates the murder of a young woman in the even more idiosyncratic town of Twin Peaks."
+    },
+    {
+        "TVShowTitle": "The Crown",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BZmY0MzBlNjctNTRmNy00Njk3LWFjMzctMWQwZDAwMGJmY2MyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2016",
+        "TVShowActors": [
+            "Claire Foy",
+            "Olivia Colman",
+            "Imelda Staunton"
+        ],
+        "TVShowSynopsis": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the twentieth century."
+    },
+    {
+        "TVShowTitle": "Criminal Minds",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNGE2ZmFkZTYtNjRiOS00ZjE3LThjOWMtZTViZjRmNDFjNTQwXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+        "TVReleaseYear": "2005",
+        "TVShowActors": [
+            "Matthew Gray Gubler",
+            "Kirsten Vangsness",
+            "A.J. Cook"
+        ],
+        "TVShowSynopsis": "The cases of the F.B.I. Behavioral Analysis Unit (B.A.U.), an elite group of profilers who analyze the nation's most dangerous serial killers and individual heinous crimes in an effort to anticipate their next moves before they strike again."
+    },
+    {
+        "TVShowTitle": "Big Little Lies",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BZmNjYzdjN2ItOTBlNy00Mjc0LWE4YmMtYTQ4ZjQzNTMyNDc4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+        "TVReleaseYear": "2017",
+        "TVShowActors": [
+            "Reese Witherspoon",
+            "Nicole Kidman",
+            "Shailene Woodley"
+        ],
+        "TVShowSynopsis": "The apparently perfect lives of upper-class mothers, at a prestigious elementary school, unravel to the point of murder when a single-mother moves to their quaint Californian beach town."
+    },
+    {
+        "TVShowTitle": "Boardwalk Empire",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BYTYxNzc5ZmYtODcyNi00ZWUwLWExNWUtY2Y0YTlhZDBlMGU1XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_QL75_UY281_CR3,0,190,281_.jpg",
+        "TVReleaseYear": "2010",
+        "TVShowActors": [
+            "Steve Buscemi",
+            "Kelly Macdonald",
+            "Michael Shannon"
+        ],
+        "TVShowSynopsis": "An Atlantic City politician plays both sides of the law by conspiring with gangsters during the Prohibition era."
+    },
+    {
+        "TVShowTitle": "24",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+        "TVReleaseYear": "2001",
+        "TVShowActors": [
+            "Kiefer Sutherland",
+            "Mary Lynn Rajskub",
+            "Carlos Bernard"
+        ],
+        "TVShowSynopsis": "Jack Bauer races against the clock to subvert terrorist plots and save his nation from ultimate disaster."
+    },
+    {
+        "TVShowTitle": "Californication",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMjAyMDM2ODExNF5BMl5BanBnXkFtZTgwNTI2MjkzMTE@._V1_QL75_UY281_CR9,0,190,281_.jpg",
+        "TVReleaseYear": "2007",
+        "TVShowActors": [
+            "David Duchovny",
+            "Natascha McElhone",
+            "Evan Handler"
+        ],
+        "TVShowSynopsis": "A writer tries to juggle his career, his relationship with his daughter and his ex-girlfriend, as well as his appetite for beautiful women."
+    },
+    {
+        "TVShowTitle": "The Mentalist",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BMTQ5OTgzOTczM15BMl5BanBnXkFtZTcwMDM2OTY4MQ@@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+        "TVReleaseYear": "2008",
+        "TVShowActors": [
+            "Simon Baker",
+            "Robin Tunney",
+            "Tim Kang"
+        ],
+        "TVShowSynopsis": "A famous \"psychic\" outs himself as a fake, and starts working as a consultant for the California Bureau of Investigation so he can find \"Red John\", the madman who killed his wife and daughter."
+    },
+    {
+        "TVShowTitle": "The End of the F***ing World",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BN2ZhNmQ2MjQtMmQzMi00YjE5LTlkMWMtMjk5YzIxMjk2NDc2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+        "TVReleaseYear": "2017",
+        "TVShowActors": [
+            "Jessica Barden",
+            "Alex Lawther",
+            "Steve Oram"
+        ],
+        "TVShowSynopsis": "James is 17 and is pretty sure he is a psychopath. Alyssa, also 17, is the cool and moody new girl at school. The pair make a connection and she persuades him to embark on a road trip in search of her real father."
+    },
+    {
+        "TVShowTitle": "Person of Interest",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BZDU1NzA5YzUtNTdmNy00NTVjLWFhNzEtYWI1NmNkNTA1ZDBhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+        "TVReleaseYear": "2011",
+        "TVShowActors": [
+            "Jim Caviezel",
+            "Taraji P. Henson",
+            "Kevin Chapman"
+        ],
+        "TVShowSynopsis": "An ex-CIA agent and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes, including the civilians' roles, are left a mystery."
+    },
+    {
+        "TVShowTitle": "Gossip Girl",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BNmQ4Zjg1YWYtMTA1Mi00ZGY1LTlmN2ItYTc5ODkzNTFmYWVhXkEyXkFqcGdeQXVyNjQ0OTk1ODg@._V1_QL75_UY281_CR14,0,190,281_.jpg",
+        "TVReleaseYear": "2007",
+        "TVShowActors": [
+            "Blake Lively",
+            "Leighton Meester",
+            "Penn Badgley"
+        ],
+        "TVShowSynopsis": "Privileged teens living on the Upper East Side of New York can hide no secret from the ruthless blogger who is always watching."
+    },
+    {
+        "TVShowTitle": "Entourage",
+        "TVShowImage": "https://m.media-amazon.com/images/M/MV5BZDg3ZDc2MDQtNzQwZi00YzFjLTgyOTMtMDMzZTc5N2VlNTg2XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UY281_CR9,0,190,281_.jpg",
+        "TVReleaseYear": "2004",
+        "TVShowActors": [
+            "Kevin Connolly",
+            "Adrian Grenier",
+            "Kevin Dillon"
+        ],
+        "TVShowSynopsis": "Film star Vince Chase navigates the vapid terrain of Los Angeles with a close circle of friends and his trusty agent."
+    }
+]}
